@@ -2,7 +2,6 @@
 Unsupervised customer segmentation using DBSCAN. Includes k-distance graph for choosing eps, clustering Mall Customers by Age, Income, and Spending Score, and evaluating results with Silhouette Score. Visualizes clusters and noise for deeper business insights.
 
 
-# 🌀 DBSCAN Clustering on Mall Customers Dataset
 
 This project applies **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** to the popular **Mall Customers dataset**. The goal is to perform **unsupervised customer segmentation** without prior labels and discover hidden patterns in Age, Income, and Spending Score.
 
